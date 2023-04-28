@@ -38,7 +38,7 @@ const Temp = () => {
   }
   useEffect(() => {
     getWeatherInfo();
-  },10);
+  },1000);
   return (
     <>
       <div className='wrap'>
