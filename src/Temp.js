@@ -1,4 +1,3 @@
-// https://api.openweathermap.org/data/2.5/weather?q=rewari&appid=5c902e81c5328d072e27dc38280d5b8b
 import React, { useEffect, useState } from 'react'
 import './Style.css'
 import Weathercard from './Weathercard'
